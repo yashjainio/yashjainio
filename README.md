@@ -1,5 +1,5 @@
 <!-- ====== HERO BANNER ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Yash%20Jain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20%26%20Backend%20Engineer%20%7C%20Tech%20Content%20Creator&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Yash%20Jain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20and%20Backend%20Engineer&descAlignY=58&descSize=18" />
 
 <!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
@@ -41,7 +41,7 @@
 ```python
 class YashJain:
     def __init__(self):
-        self.role        = "Senior AI & Backend Engineer"
+        self.role        = "Senior AI and Backend Engineer"
         self.creator     = "YouTube Educator 🎥"
         self.languages   = ["Python"]
         self.focus       = ["AI", "LLMs", "Agents", "ML", "Vector DBs"]
@@ -49,7 +49,7 @@ class YashJain:
         self.motto       = "Always curious. Always shipping 🚀"
 
     def current_mission(self):
-        return "Building systems that think, reason & learn 💡"
+        return "Building systems that think, reason and learn 💡"
 ```
 
 - 🤖 Building intelligent systems that **think, reason, and learn**
