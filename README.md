@@ -34,11 +34,13 @@
 
 ---
 
+<p align="center">
+  <img width="100" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+</p>
+
 ### 🧠 About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
-<!--
 ```python
 class YashJain:
     def __init__(self):
@@ -52,7 +54,7 @@ class YashJain:
     def current_mission(self):
         return "Building systems that think, reason and learn 💡"
 ```
--->
+
 
 - 🤖 Building intelligent systems that **think, reason, and learn**
 - 🧩 Exploring **AI**, **LLMs**, **Agents**, and **Vector Databases** — one prompt at a time
