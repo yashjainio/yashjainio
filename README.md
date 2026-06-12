@@ -19,9 +19,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yashjaincodex"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yashjaincodex"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@yashjaincodex"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://topmate.io/yashjaincodex"><img src="https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logo=Topmate&logoColor=white"/></a>
-  <a href="https://yashjaincodex.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://github.com/yashjainio"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yashjainio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@yashjainio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://topmate.io/yashjainio"><img src="https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logo=Topmate&logoColor=white"/></a>
+  <a href="https://yashjainio"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
