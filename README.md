@@ -92,11 +92,6 @@ class YashJain:
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjainio&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css" />
 </p>
 
-<!-- ====== TROPHIES ====== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashjainio&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
 ---
 
 ### 📈 Contribution Graph
