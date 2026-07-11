@@ -81,7 +81,7 @@ class YashJain:
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashjainio&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" />
@@ -92,7 +92,7 @@ class YashJain:
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjainio&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css" />
 </p>
 
----
+--->
 
 ### 📈 Contribution Graph
 
