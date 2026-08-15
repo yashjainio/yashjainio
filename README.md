@@ -16,16 +16,13 @@
   </a>
 </p>
 
-<!-- ====== YOUTUBE HIGHLIGHT (LIVE COUNT) ====== -->
+<!-- ====== YOUTUBE HIGHLIGHT ====== -->
 <div align="center">
 
 ## 🎬 Join My Growing YouTube Community! 🚀
 
 <a href="https://www.youtube.com/@yashjainio">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCn6XkAp0IcIBMKELabnBMUQ?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=282828&label=SUBSCRIBERS" alt="YouTube Subscribers" />
-</a>
-<a href="https://www.youtube.com/@yashjainio">
-  <img src="https://img.shields.io/youtube/channel/views/UCn6XkAp0IcIBMKELabnBMUQ?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=282828&label=Total%20Views" alt="YouTube Views" />
+  <img src="https://img.shields.io/badge/YouTube-%40yashjainio-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828" alt="YouTube Channel" />
 </a>
 
 > 💡 *Breaking down AI, LLMs, and backend engineering — one video at a time.*
@@ -40,7 +37,6 @@
 
 ### 🧠 About Me
 
-
 ```python
 class YashJain:
     def __init__(self):
@@ -54,7 +50,6 @@ class YashJain:
     def current_mission(self):
         return "Building systems that think, reason and learn 💡"
 ```
-
 
 - 🤖 Building intelligent systems that **think, reason, and learn**
 - 🧩 Exploring **AI**, **LLMs**, **Agents**, and **Vector Databases** — one prompt at a time
